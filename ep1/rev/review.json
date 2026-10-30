@@ -1,0 +1,259 @@
+{
+ "duration": 481.933333,
+ "LUFS": -14.5,
+ "true_peak": -1.7,
+ "script_words": 1242,
+ "heard_words": 1244,
+ "diffs": [
+  {
+   "op": "replace",
+   "script": "nine forty",
+   "heard": "9 40",
+   "t": 0.61
+  },
+  {
+   "op": "replace",
+   "script": "twenty",
+   "heard": "20",
+   "t": 4.95
+  },
+  {
+   "op": "replace",
+   "script": "forty",
+   "heard": "40",
+   "t": 105.89
+  },
+  {
+   "op": "replace",
+   "script": "two hundred dollars",
+   "heard": "200",
+   "t": 116.19
+  },
+  {
+   "op": "replace",
+   "script": "figure it",
+   "heard": "figured",
+   "t": 177.48
+  },
+  {
+   "op": "replace",
+   "script": "calm",
+   "heard": "calmed",
+   "t": 178.34
+  },
+  {
+   "op": "replace",
+   "script": "ama",
+   "heard": "amma",
+   "t": 193.32
+  },
+  {
+   "op": "replace",
+   "script": "centre",
+   "heard": "center",
+   "t": 243.32
+  },
+  {
+   "op": "replace",
+   "script": "twenty",
+   "heard": "20",
+   "t": 262.26
+  },
+  {
+   "op": "replace",
+   "script": "ifthen",
+   "heard": "if then",
+   "t": 281.8
+  },
+  {
+   "op": "replace",
+   "script": "gollwitzer",
+   "heard": "golwitzer",
+   "t": 291.0
+  },
+  {
+   "op": "replace",
+   "script": "paschal",
+   "heard": "pascal",
+   "t": 292.04
+  },
+  {
+   "op": "replace",
+   "script": "pm",
+   "heard": "p m",
+   "t": 308.0
+  },
+  {
+   "op": "replace",
+   "script": "twenty",
+   "heard": "20",
+   "t": 315.04
+  },
+  {
+   "op": "replace",
+   "script": "juliana breines",
+   "heard": "julianna brinas",
+   "t": 350.52
+  },
+  {
+   "op": "replace",
+   "script": "pm",
+   "heard": "p m",
+   "t": 379.68
+  },
+  {
+   "op": "replace",
+   "script": "here is",
+   "heard": "here's",
+   "t": 408.45
+  },
+  {
+   "op": "replace",
+   "script": "us",
+   "heard": "u s",
+   "t": 462.11
+  },
+  {
+   "op": "replace",
+   "script": "helplines",
+   "heard": "help lines",
+   "t": 467.45
+  },
+  {
+   "op": "replace",
+   "script": "findahelplinecom",
+   "heard": "findahalpline com",
+   "t": 468.45
+  }
+ ],
+ "doubles": [],
+ "gaps_over_2_5s": [],
+ "pace_wps": 2.71,
+ "last_words": [
+  [
+   "please",
+   459.23,
+   460.09
+  ],
+  [
+   "reach",
+   460.09,
+   460.43
+  ],
+  [
+   "someone",
+   460.43,
+   460.77
+  ],
+  [
+   "today.",
+   460.77,
+   461.15
+  ],
+  [
+   "In",
+   461.95,
+   461.99
+  ],
+  [
+   "the",
+   461.99,
+   462.11
+  ],
+  [
+   "U",
+   462.11,
+   462.23
+  ],
+  [
+   ".S.",
+   462.23,
+   462.33
+  ],
+  [
+   "you",
+   462.41,
+   462.47
+  ],
+  [
+   "can",
+   462.47,
+   462.61
+  ],
+  [
+   "call",
+   462.61,
+   462.85
+  ],
+  [
+   "or",
+   462.85,
+   462.95
+  ],
+  [
+   "text",
+   462.95,
+   463.29
+  ],
+  [
+   "988.",
+   463.29,
+   464.53
+  ],
+  [
+   "Anywhere",
+   465.31,
+   465.59
+  ],
+  [
+   "else,",
+   465.59,
+   465.81
+  ],
+  [
+   "you'll",
+   466.17,
+   466.35
+  ],
+  [
+   "find",
+   466.35,
+   466.51
+  ],
+  [
+   "free",
+   466.51,
+   466.85
+  ],
+  [
+   "confidential",
+   466.85,
+   467.45
+  ],
+  [
+   "help",
+   467.45,
+   467.69
+  ],
+  [
+   "lines",
+   467.69,
+   468.03
+  ],
+  [
+   "at",
+   468.03,
+   468.45
+  ],
+  [
+   "findahalpline",
+   468.45,
+   469.57
+  ],
+  [
+   ".com.",
+   469.57,
+   470.07
+  ]
+ ]
+}
